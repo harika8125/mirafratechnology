@@ -1,0 +1,9 @@
+a=input("enter a value\n")
+b=input("enter b value\n")
+print("before swapping a="+a)
+print("before swapping b="+b)
+temp=a
+a=b
+b=temp
+print("after swapping a="+a)
+print("after swapping b="+b)
